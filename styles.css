@@ -4,7 +4,6 @@
 
 html{
     font-family: 'Arial','Kerola','Helvetica',sans-serif ;
-    height: 100%;
     min-height: 100%;
     font-size: 14px;
     font-weight: 600;
@@ -13,7 +12,6 @@ html{
 body{
     margin: 0;
     padding: 0;
-    height: 100%;
     min-height: 100%;
     color: #1c1b1b;
     background-color: #f8f8f9;
